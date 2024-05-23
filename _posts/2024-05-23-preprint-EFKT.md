@@ -2,7 +2,7 @@
 title: "Explainable Few-shot Knowledge Tracing"
 date: 2023-05-23
 categories:
-  - preprint
+  - Preprint
 tags:
   - Knowldege Tracing
   - Large Language Model
