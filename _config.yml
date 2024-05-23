@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Haoxuan Li"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I am a master student at Beihang university, majoring in computer science and engnieering. I'm currently applying for a doctorate program."
   links:
     - label: "Homepage"
       icon: "fas fa-fw fa-link"
