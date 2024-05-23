@@ -67,8 +67,8 @@ author:
   location : "Beijing, China"
   links:
     - label: "Email"
-      icon: "fa-regular fa-envelope"
-      url: "mailto: lucaslibhu@gmail.com"
+      icon: "fab fa-fw fa-envelope"
+      url: "lucaslibhu@gmail.com"
     - label: "Homepage"
       icon: "fas fa-fw fa-link"
       url: "https://"
