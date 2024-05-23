@@ -65,7 +65,7 @@ author:
   bio    : "I am a master student at Beihang university, majoring in computer science and engnieering. I'm currently applying for a doctorate program."
   location : "Beijing, China"
   links:
-    - label: "Email"
+    - label: " Email"
       icon: "fa-regular fa-envelope"
       url: "lucaslibhu@gmail.com"
     - label: "Homepage"
@@ -74,7 +74,7 @@ author:
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
-    - label: "GitHub"
+    - label: " GitHub"
       icon: "fa-brands fa-github"
       url: "https://github.com/"
     # - label: "Instagram"
