@@ -64,7 +64,11 @@ author:
   name   : "Haoxuan Li"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "I am a master student at Beihang university, majoring in computer science and engnieering. I'm currently applying for a doctorate program."
+  location : "Beijing, China"
   links:
+    - label: "Email"
+      icon: "fa-regular fa-envelope"
+      url: "mailto: lucaslibhu@gmail.com"
     - label: "Homepage"
       icon: "fas fa-fw fa-link"
       url: "https://"
@@ -99,9 +103,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
-      share: true
-      related: true
 
   # _pages
   - scope:
