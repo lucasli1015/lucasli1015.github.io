@@ -5,4 +5,4 @@ permalink: /papers/
 author_profile: true
 ---
 
-Here are my papers categorized by preprints and publications.
+Here is a list of the papers I've been involved in.
