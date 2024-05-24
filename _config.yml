@@ -63,7 +63,7 @@ head_scripts:
 author:
   name   : "Haoxuan Li"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Master student at school of computer science and engnieering in Beihang university. Applying for a PhD."
+  bio    : "Master student at Beihang university. \nApplying for a PhD."
   location : "Beijing, China"
   links:
     - label: " Email"
