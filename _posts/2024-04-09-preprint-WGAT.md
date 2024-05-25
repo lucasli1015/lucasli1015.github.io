@@ -15,5 +15,4 @@ Collaborative filtering (CF) is an essential technique in recommender systems th
 #### Authors
 Haoxuan Li, Yuanxin Ouyang, Zhuang Liu, Wenge Rong, Zhang Xiong
 
-#### Link
-https://arxiv.org/abs/2404.05962
+#### [Link](https://arxiv.org/abs/2404.05962)

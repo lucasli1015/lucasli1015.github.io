@@ -13,5 +13,4 @@ Knowledge tracing (KT), aiming to mine students' mastery of knowledge by their e
 #### Authors
 Haoxuan Li, Jifan Yu, Yuanxin Ouyang, Zhuang Liu, Wenge Rong, Juanzi Li, Zhang Xiong
 
-#### Link
-https://arxiv.org/abs/2405.14391
+#### [Link](https://arxiv.org/abs/2405.14391)

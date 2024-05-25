@@ -18,5 +18,4 @@ Zhuang Liu, Haoxuan Li, Guanming Chen, Yuanxin Ouyang, Wenge Rong, Zhang Xiong
 #### Conference
 CIKM 2023
 
-#### Link
-https://dl.acm.org/doi/abs/10.1145/3583780.3615009
+#### [Link](https://dl.acm.org/doi/abs/10.1145/3583780.3615009)

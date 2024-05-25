@@ -19,5 +19,4 @@ Zhang Xiong, Haoxuan Li, Zhuang Liu, Zhuofan Chen, Hao Zhou, Wenge Rong, Yuanxin
 #### Journal
 Frontiers of Digital Education
 
-#### Link
-https://journal.hep.com.cn/fde/EN/10.3868/s110-009-024-0004-9
+#### [Link](https://journal.hep.com.cn/fde/EN/10.3868/s110-009-024-0004-9)
