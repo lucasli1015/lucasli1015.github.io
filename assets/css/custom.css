@@ -1,0 +1,13 @@
+/* 放宽内容区域宽度 */
+.page,
+.page__content,
+.archive {
+  max-width: 1000px !important;
+  width: 100% !important;
+  margin: 0 auto;
+}
+
+/* 可选：控制文章区表格的最大宽度 */
+.page__content table {
+  width: 100% !important;
+}

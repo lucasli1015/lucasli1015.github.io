@@ -103,6 +103,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
+      css: "/assets/css/custom.css"
 
   # _pages
   - scope:
@@ -111,6 +112,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      css: "/assets/css/custom.css"
 
 category_archive:
   type: liquid
